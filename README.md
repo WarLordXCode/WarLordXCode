@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there, I'm WarLord -  👋 
+
+
+
+## I'm a Gamer, Lover, Developer, and Learner!!
+
+- 🔭 I'm currently developing GitHub profile
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2023 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to play games and coding
+- ❤️ 
