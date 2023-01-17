@@ -26,3 +26,14 @@ Here are some ideas to get you started:
 - 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play games and coding
 - ❤️ 
+
+
+
+
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=WarLordXCode&show_icons=true&locale=en&layout=compact" alt="WarLordXCode" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=WarLordXCode&show_icons=true&locale=en" alt="WarLordXCode" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=WarLordXCode&" alt="WarLordXCode" /></p>
+
+    
